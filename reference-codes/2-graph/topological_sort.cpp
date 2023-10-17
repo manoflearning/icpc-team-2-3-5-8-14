@@ -1,3 +1,4 @@
+// 1. Topological Sort (DFS)
 // INPUT: Given a directed graph.
 // OUTPUT: Output one of the topological sorting results of the graph.
 // TIME COMPLEXITY: O(n + m)
@@ -50,6 +51,4 @@ int main() {
 
 	input();
 	topologicalSort();
-
-	return 0;
 }

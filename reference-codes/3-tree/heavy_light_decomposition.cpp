@@ -1,3 +1,4 @@
+// 2. HLD with Segment Tree
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
@@ -83,5 +84,4 @@ int main() {
 		if (op == 1) modify(a, b);
 		else cout << query(a, b) << '\n';
 	}
-	return 0;
 }

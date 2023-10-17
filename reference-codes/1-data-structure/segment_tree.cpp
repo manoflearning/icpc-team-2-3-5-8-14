@@ -1,21 +1,29 @@
-// INPUT: Given an array of integers of size N.
-// Given the query (1 i v) or (2 k i j)
-// If the first number is 1, change the value of the ith element to v.
-// If the first number is 2, find the sum of the elements in the interval [i, j], when applied up to the kth query (1 i v).
-// OUTPUT: Given the query (2 k i j), output the sum of the elements in the interval [i, j], when applied up to the kth query (1 i v).
+// 2. Iterative Segment Tree
+const int MAXN = 1010101;  // limit for array size
+struct Seg {  // 0-indexed
+	int n;  // array size
+	ll t[2 * MAXN];
+	void build(int N) {
+		n = N;
+		for (int i = 0; i < n; i++) cin >> t[n + i];
+		for (int i = n - 1; i >= 1; i--) t[i] = t[i << 1] + t[i << 1 | 1];
+	}
+	void modify(int p, ll value) {  // set value at position p
+		for (t[p += n] = value; p > 1; p >>= 1) t[p >> 1] = t[p] + t[p ^ 1];
+	}
+	ll query(int l, int r) {  // sum on interval [l, r)
+		ll ret = 0;
+		for (l += n, r += n; l < r; l >>= 1, r >>= 1) {
+			if (l & 1) ret += t[l++];
+			if (r & 1) ret += t[--r];
+		}
+		return ret;
+	}
+}seg;
+
+// 5. Persistent Segment Tree
 // TIME COMPLEXITY: O(n) for initialize PST, O(logn) for each query.
 // SPACE COMPLEXITY: O(nlogm).
-
-// BOJ 16978 AC Code
-// https://www.acmicpc.net/problem/16978
-
-#include <bits/stdc++.h>
-using namespace std;
-#define ll long long
-#define sz(x) (int)(x).size()
-
-vector<ll> a;
-
 struct PST { // 1-indexed
     int flag; // array size
     struct Node { int l, r; ll val; };
@@ -80,27 +88,3 @@ struct PST { // 1-indexed
         return query(l, r, root[n], 1, flag);
     }
 }pst;
-
-int n;
-
-int main() {
-    cin.tie(NULL); cout.tie(NULL);
-    ios_base::sync_with_stdio(false);
-
-    cin >> n;
-    a.resize(n + 1);
-    for (int i = 1; i <= n; i++) cin >> a[i];
-
-    pst.build(n);
-
-    int m; cin >> m;
-    while (m--) {
-        int op, x, y, z;
-        cin >> op >> x >> y;
-        if (op == 1) pst.modify(x, y);
-        if (op == 2) {
-            cin >> z;
-            cout << pst.query(y, z, x) << '\n';
-        }
-    }
-}

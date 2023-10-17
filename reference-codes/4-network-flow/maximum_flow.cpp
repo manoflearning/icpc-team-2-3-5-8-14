@@ -1,3 +1,4 @@
+// 1. Maximum Flow
 // Edmonds-Karp algorithm
 // time complexity : O(V * E^2)
 #include <bits/stdc++.h>
@@ -62,5 +63,4 @@ int main() {
     input();
     ll total = maxFlow(1, n);
     cout << total << '\n';
-    return 0;
 }
