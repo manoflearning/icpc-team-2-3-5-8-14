@@ -23,3 +23,8 @@
 
 - [Team Note of 2 3 5 8 14 (2023)](https://github.com/manoflearning/icpc-team-2-3-5-8-14/blob/main/team-note-2023.pdf)
 - [Team Note of 2 3 5 8 14 (2022)](https://github.com/manoflearning/icpc-team-2-3-5-8-14/blob/main/team-note-2022.pdf)
+
+## Misc
+
+Inspired by The Korean Zombie, 
+We have a routine of listening to [Zombie - The Cranberries](https://www.youtube.com/watch?v=6Ejga4kJUts) before practice or competition.
