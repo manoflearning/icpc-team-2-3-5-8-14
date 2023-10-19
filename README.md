@@ -27,4 +27,4 @@
 ## Misc
 
 - Inspired by The Korean Zombie, 
-We have a routine of listening to [Zombie - The Cranberries](https://www.youtube.com/watch?v=6Ejga4kJUts) before practice or competition.
+We have a routine of listening to [The Cranberries - Zombie](https://www.youtube.com/watch?v=6Ejga4kJUts) before practice or competition.
