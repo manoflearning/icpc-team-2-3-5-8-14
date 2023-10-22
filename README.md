@@ -2,22 +2,22 @@
 
 ## Members
 
-- Wookyung Jeong (2022 - 2023)
+- Wookyung Jeong
     - Baekjoon OJ: [man_of_learning](https://www.acmicpc.net/user/man_of_learning)
     - Codeforces: [man_of_learning](https://codeforces.com/profile/man_of_learning)
-- Junghyun Lee (2022 - 2023)
+- Junghyun Lee
     - Baekjoon OJ: [afpine](https://www.acmicpc.net/user/afpine)
     - Codeforces: [AFpine](https://codeforces.com/profile/AFpine)
-- Sungmoon Jung (2023)
+- Sungmoon Jung (2023-2024 Season)
     - Baekjoon OJ: [tjdans6342](https://www.acmicpc.net/user/tjdans6342)
     - Codeforces: [G_liver](https://codeforces.com/profile/G_liver)
-- Inhyuk Choi (2022)
+- Inhyuk Choi (2022-2023 Season)
     - Baekjoon OJ: [inhyuk05](https://www.acmicpc.net/user/inhyuk05)
 
 ## ICPC Results
 
-- 36th in 2022 ICPC Seoul Regional ([Scoreboard](http://static.icpckorea.net/20221119/scoreboard/))
-- 35th in 2022 ICPC Seoul Regional First Round ([Scoreboard](http://static.icpckorea.net/2022/scoreboard_preliminary/))
+- (2022-2023 Season) 36th in 2022 ICPC Seoul Regional ([Scoreboard](http://static.icpckorea.net/20221119/scoreboard/))
+- (2022-2023 Season) 35th in 2022 ICPC Seoul Regional First Round ([Scoreboard](http://static.icpckorea.net/2022/scoreboard_preliminary/))
 
 ## Team Note
 
