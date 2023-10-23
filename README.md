@@ -16,9 +16,14 @@
 
 ## ICPC Results
 
-- 20th in 2022 ICPC Seoul Regional First Round ([Scoreboard](http://static.icpckorea.net/2023/first_round/scoreboard/)) (2023-2024 Season)
-- 36th in 2022 ICPC Seoul Regional ([Scoreboard](http://static.icpckorea.net/20221119/scoreboard/)) (2022-2023 Season)
-- 35th in 2022 ICPC Seoul Regional First Round ([Scoreboard](http://static.icpckorea.net/2022/scoreboard_preliminary/)) (2022-2023 Season)
+### 2023-2024 Season
+
+- 20th in 2022 ICPC Seoul Regional First Round ([Scoreboard](http://static.icpckorea.net/2023/first_round/scoreboard/))
+
+### 2022-2023 Season
+
+- 36th in 2022 ICPC Seoul Regional ([Scoreboard](http://static.icpckorea.net/20221119/scoreboard/))
+- 35th in 2022 ICPC Seoul Regional First Round ([Scoreboard](http://static.icpckorea.net/2022/scoreboard_preliminary/))
 
 ## Team Note
 
