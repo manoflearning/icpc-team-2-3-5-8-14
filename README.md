@@ -5,7 +5,6 @@
 - Wookyung Jeong
     - Baekjoon OJ: [man_of_learning](https://www.acmicpc.net/user/man_of_learning)
     - Codeforces: [man_of_learning](https://codeforces.com/profile/man_of_learning)
-    - [Personal Website](https://wookyungjeong.com/)
 - Junghyun Lee
     - Baekjoon OJ: [afpine](https://www.acmicpc.net/user/afpine)
     - Codeforces: [AFpine](https://codeforces.com/profile/AFpine)
