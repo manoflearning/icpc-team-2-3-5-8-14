@@ -2,7 +2,7 @@
 
 ## Members
 
-- Wookyung Jeong
+- [Wookyung Jeong](https://wookyungjeong.com/)
     - Baekjoon OJ: [man_of_learning](https://www.acmicpc.net/user/man_of_learning)
     - Codeforces: [man_of_learning](https://codeforces.com/profile/man_of_learning)
 - Junghyun Lee
