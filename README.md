@@ -19,7 +19,7 @@
 ### 2023-2024 Season
 
 - 18th in 2023 ICPC Jakarta Regional ([Scoreboard](https://competition.binus.ac.id/icpc2023/final.html))
-- 31th in 2023 ICPC Seoul Regional ([Scoreboard](http://static.icpckorea.net/2023/regional/scoreboard/))
+- 31st in 2023 ICPC Seoul Regional ([Scoreboard](http://static.icpckorea.net/2023/regional/scoreboard/))
 - 20th in 2023 ICPC Seoul Regional First Round ([Scoreboard](http://static.icpckorea.net/2023/first_round/scoreboard/))
 
 ### 2022-2023 Season
