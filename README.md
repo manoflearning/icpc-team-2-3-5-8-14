@@ -18,14 +18,14 @@
 
 ### 2023-2024 Season
 
-- 18th in 2023 ICPC Jakarta Regional ([Scoreboard](https://competition.binus.ac.id/icpc2023/final.html))
-- 31st in 2023 ICPC Seoul Regional ([Scoreboard](http://static.icpckorea.net/2023/regional/scoreboard/))
-- 20th in 2023 ICPC Seoul Regional First Round ([Scoreboard](http://static.icpckorea.net/2023/first_round/scoreboard/))
+- 18th in 2023 ICPC Asia Jakarta Regional ([Scoreboard](https://competition.binus.ac.id/icpc2023/final.html))
+- 31st in 2023 ICPC Asia Seoul Regional ([Scoreboard](http://static.icpckorea.net/2023/regional/scoreboard/))
+- 20th in 2023 ICPC Asia Seoul Regional First Round ([Scoreboard](http://static.icpckorea.net/2023/first_round/scoreboard/))
 
 ### 2022-2023 Season
 
-- 36th in 2022 ICPC Seoul Regional ([Scoreboard](http://static.icpckorea.net/20221119/scoreboard/))
-- 35th in 2022 ICPC Seoul Regional First Round ([Scoreboard](http://static.icpckorea.net/2022/scoreboard_preliminary/))
+- 36th in 2022 ICPC Asia Seoul Regional ([Scoreboard](http://static.icpckorea.net/20221119/scoreboard/))
+- 35th in 2022 ICPC Asia Seoul Regional First Round ([Scoreboard](http://static.icpckorea.net/2022/scoreboard_preliminary/))
 
 ## Team Note
 
