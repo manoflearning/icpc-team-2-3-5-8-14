@@ -6,6 +6,7 @@
     - Baekjoon OJ: [man_of_learning](https://www.acmicpc.net/user/man_of_learning)
     - Codeforces: [man_of_learning](https://codeforces.com/profile/man_of_learning)
     - AtCoder: [man_of_learning](https://atcoder.jp/users/man_of_learning)
+    - LeetCode: [manoflearning](https://leetcode.com/manoflearning/)
 - Sungbum Heo (2024-2025 Season)
     - Baekjoon OJ: [iluem100](https://www.acmicpc.net/user/iluem100)
     - AtCoder: [iluem100](https://atcoder.jp/users/iluem100)
