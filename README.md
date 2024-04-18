@@ -2,29 +2,20 @@
 
 ## Members
 
-- Wookyung Jeong
-    - Baekjoon OJ: [man_of_learning](https://www.acmicpc.net/user/man_of_learning)
-    - Codeforces: [man_of_learning](https://codeforces.com/profile/man_of_learning)
-    - AtCoder: [man_of_learning](https://atcoder.jp/users/man_of_learning)
-- Sungbum Heo (2024-2025 Season)
-    - Baekjoon OJ: [iluem100](https://www.acmicpc.net/user/iluem100)
-    - AtCoder: [iluem100](https://atcoder.jp/users/iluem100)
-- Yonghun Kim (2024-2025 Season)
-    - Baekjoon OJ: [24alps_5](https://www.acmicpc.net/user/24alps_5)
-- Junghyun Lee (2022-2023, 2023-2024 Seasons)
-    - Baekjoon OJ: [afpine](https://www.acmicpc.net/user/afpine)
-    - Codeforces: [AFpine](https://codeforces.com/profile/AFpine)
-- Sungmoon Jung (2023-2024 Season)
-    - Baekjoon OJ: [tjdans6342](https://www.acmicpc.net/user/tjdans6342)
-    - Codeforces: [G_liver](https://codeforces.com/profile/G_liver)
-- Inhyuk Choi (2022-2023 Season)
-    - Baekjoon OJ: [inhyuk05](https://www.acmicpc.net/user/inhyuk05)
+| Name | OJ Profiles | Seasons |
+| --- | --- | --- |
+| Wookyung Jeong | BOJ: [man_of_learning](https://www.acmicpc.net/user/man_of_learning) <br> Codeforces: [man_of_learning](https://codeforces.com/profile/man_of_learning) <br> AtCoder: [man_of_learning](https://atcoder.jp/users/man_of_learning) | 2022-2023, 2023-2024, and 2024-2025 |
+| Sungbum Heo | BOJ: [iluem100](https://www.acmicpc.net/user/iluem100) <br> AtCoder: [iluem100](https://atcoder.jp/users/iluem100) | 2024-2025 |
+| Yonghun Kim | BOJ: [24alps_5](https://www.acmicpc.net/user/24alps_5) | 2024-2025 |
+| Sungmoon Jung | BOJ: [tjdans6342](https://www.acmicpc.net/user/tjdans6342) <br> Codeforces: [G_liver](https://codeforces.com/profile/G_liver) | 2023-2024 |
+| Junghyun Lee | BOJ: [afpine](https://www.acmicpc.net/user/afpine) <br> Codeforces: [AFpine](https://codeforces.com/profile/AFpine) | 2022-2023, and 2023-2024 |
+| Inhyuk Choi | BOJ: [inhyuk05](https://www.acmicpc.net/user/inhyuk05) | 2022-2023 |
 
 ## ICPC Results
 
 ### 2023-2024 Season
 
-- 55th in 2024 ICPC Asia Pacific Championship ([Scoreboard](https://icpcasia.firebaseapp.com/standings/))
+- 55th in 2024 ICPC Asia Pacific Championship ([Scoreboard](https://icpcasia.firebaseapp.com/standings/), [YouTube](https://youtu.be/8GsVeMEVMKc?si=VNuSTc32NAvpgHIN))
 - 18th in 2023 ICPC Asia Jakarta Regional ([Scoreboard](https://competition.binus.ac.id/icpc2023/final.html))
 - 31st in 2023 ICPC Asia Seoul Regional ([Scoreboard](http://static.icpckorea.net/2023/regional/scoreboard/))
 - 20th in 2023 ICPC Asia Seoul Regional First Round ([Scoreboard](http://static.icpckorea.net/2023/first_round/scoreboard/))
