@@ -2,7 +2,7 @@
 
 ## Members
 
-| Name | OJ Profiles | Seasons |
+| Name | CP Profiles | Seasons |
 | --- | --- | --- |
 | Wookyung Jeong | Baekjoon OJ: [man_of_learning](https://www.acmicpc.net/user/man_of_learning) <br> Codeforces: [man_of_learning](https://codeforces.com/profile/man_of_learning) <br> AtCoder: [man_of_learning](https://atcoder.jp/users/man_of_learning) | 2022-2023, 2023-2024, and 2024-2025 |
 | Sungbum Heo | Baekjoon OJ: [iluem100](https://www.acmicpc.net/user/iluem100) <br> AtCoder: [iluem100](https://atcoder.jp/users/iluem100) | 2024-2025 |
