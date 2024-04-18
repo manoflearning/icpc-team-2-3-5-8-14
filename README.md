@@ -6,7 +6,12 @@
     - Baekjoon OJ: [man_of_learning](https://www.acmicpc.net/user/man_of_learning)
     - Codeforces: [man_of_learning](https://codeforces.com/profile/man_of_learning)
     - AtCoder: [man_of_learning](https://atcoder.jp/users/man_of_learning)
-- Junghyun Lee
+- Sungbum Heo (2024-2025 Season)
+    - Baekjoon OJ: [iluem100](https://www.acmicpc.net/user/iluem100)
+    - AtCoder: [iluem100](https://atcoder.jp/users/iluem100)
+- Yonghun Kim (2024-2025 Season)
+    - Baekjoon OJ: [24alps_5](https://www.acmicpc.net/user/24alps_5)
+- Junghyun Lee (2022-2023, 2023-2024 Seasons)
     - Baekjoon OJ: [afpine](https://www.acmicpc.net/user/afpine)
     - Codeforces: [AFpine](https://codeforces.com/profile/AFpine)
 - Sungmoon Jung (2023-2024 Season)
